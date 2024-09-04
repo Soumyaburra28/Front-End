@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="vliewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+    <style>
+        table,tr,td,th{
+            border:2px solid rgba(21, 14, 119, 0.747)
+        }
+    </style>
+</head>
+<body>
+    <div class="tableclass"></div>
+    <table>
+        <tr>
+            <th>S.NO</th>
+            <th>Names</th>
+            <th>Batch</th>
+            <th>Skills</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>soumya</td>
+            <td>jfs16</td>
+            <td>c++,c</td>
+        </tr>
+        <tr>
+        <td>2</td>
+        <td>soumya2</td>
+        <td>jfs15</td>
+        <td>html,c</td>
+        </tr>
+        <tr>
+        <td>3</td>
+        <td>soumya3</td>
+        <td>jfs14</td>
+        <td>java full stack</td>
+        </tr>
+        <tr>
+        <td>4</td>
+        <td>soumya4</td>
+        <td>jfs13</td>
+        <td>java full stack,html,css</td>
+        </tr>
+        <tr>
+        <td>5</td>
+        <td>soumya5</td>
+        <td>jfs12</td>
+        <td>mysql,bootstrap</td>
+        </tr>
+    </table>
+</body>
+</html>
